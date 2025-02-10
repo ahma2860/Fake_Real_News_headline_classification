@@ -27,14 +27,4 @@ The dataset includes labeled news headlines categorized as **Fake** or **Real**,
 2. Run the cells sequentially to preprocess data, train models, and evaluate results.
 
 ## Results
-The best model achieved an accuracy of **X%** with detailed metrics documented in the notebook.
-
-## Contributing
-Contributions are welcome! Fork the repository, make changes, and submit a pull request.
-"""
-
-# Write the content to README.md
-with open("README.md", "w") as readme_file:
-    readme_file.write(readme_content)
-
-print("README.md file generated successfully.")
+The best model achieved an accuracy of **64%** with detailed metrics documented in the notebook.
